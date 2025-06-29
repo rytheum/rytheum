@@ -33,8 +33,7 @@
 ---
 
 ### 🚧 Ongoing Projects
-- 🔧 **UAS PROJECT HOME ELECTRONIC SELLER** – Laravel + MySQL  
-- 🛐 **To Do App** – HTML-CSS-JS
+
 - 📚 **My Portofolio Website** HTML-CSS-JS 
 ---
 
