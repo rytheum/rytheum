@@ -34,7 +34,6 @@
 
 ### 🚧 Ongoing Projects
 
-- 📚 **My Portofolio Website** HTML-CSS-JS 
 ---
 
 ### 📊 GitHub Stats
